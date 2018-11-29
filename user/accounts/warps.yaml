@@ -1,0 +1,14 @@
+email: timothy.prefol@gmail.com
+fullname: 'Albert Fish'
+title: Admin
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$uPxLDAFKsDfG2SsQlzXnRe1gZg1ESsFyL3YBGUxhy3xZFS0JNI9LC
+language: fr
+twofa_enabled: false
+twofa_secret: LC7ZUL4HCI5FASUOHA3ZBSCBSEOEHGFT

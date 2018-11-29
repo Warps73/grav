@@ -1,0 +1,4 @@
+enabled: true
+mysql_server: nain
+mysql_port: 127.0.0.1
+mysql_username: root
